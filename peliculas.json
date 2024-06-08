@@ -1,0 +1,750 @@
+[
+    {
+        "id": 1,
+        "titulo": "El caballero oscuro",
+        "genero": "Accion",
+        "duracion": 152,
+        "sinopsis": "Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart), Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger), un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            7,
+            9,
+            8,
+            9,
+            8
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 2,
+        "titulo": "Spider-Man: Across the Spider-Verse",
+        "genero": "Animacion",
+        "duracion": 140,
+        "sinopsis": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a trav\u00e9s del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los h\u00e9roes se enfrentan sobre c\u00f3mo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Ara\u00f1as y debe redefinir lo que significa ser un h\u00e9roe para poder salvar a la gente que m\u00e1s quiere. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            7,
+            5,
+            5,
+            6,
+            6
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 3,
+        "titulo": "Los asesinos de la luna",
+        "genero": "Accion",
+        "duracion": 206,
+        "sinopsis": "Ambientada en la Oklahoma de la d\u00e9cada de 1920, narra los asesinatos en serie de los miembros de la naci\u00f3n ind\u00edgena Osage, que era muy rica en petr\u00f3leo; una serie de cr\u00edmenes brutales que m\u00e1s tarde se conocer\u00eda como el Reinado del Terror ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            5,
+            4,
+            5,
+            7,
+            7,
+            7,
+            7
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 4,
+        "titulo": "Los vengadores",
+        "genero": "Accion",
+        "duracion": 135,
+        "sinopsis": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            7,
+            6,
+            7,
+            7
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 5,
+        "titulo": "La sociedad de los poetas muertos",
+        "genero": "Drama",
+        "duracion": 124,
+        "sinopsis": "En un elitista y estricto colegio privado de Nueva Inglaterra, un grupo de alumnos descubrir\u00e1 la poes\u00eda, el significado del carpe diem -aprovechar el momento- y la importancia vital de luchar por alcanzar los sue\u00f1os, gracias al Sr. Keating, un exc\u00e9ntrico profesor que despierta sus mentes por medio de m\u00e9todos poco convencionales. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            9,
+            9,
+            10,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 6,
+        "titulo": "El se\u00f1or de los anillos",
+        "genero": "Ciencia ficcion",
+        "duracion": 180,
+        "sinopsis": "En la Tierra Media, el Se\u00f1or Oscuro Sauron orden\u00f3 a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Se\u00f1ores Enanos, y nueve para los Hombres Mortales. Pero Saur\u00f3n tambi\u00e9n forj\u00f3, en secreto, el Anillo \u00danico, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misi\u00f3n de destruir el Anillo \u00danico. Pero el malvado Sauron ordena la persecuci\u00f3n del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misi\u00f3n es casi suicida pero necesaria, pues si Sauron con su ej\u00e9rcito de orcos lograra recuperar el Anillo, ser\u00eda el final de la Tierra Media. ",
+        "pais_de_origen": "Nueva Zelanda",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            9,
+            8,
+            10,
+            10,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 7,
+        "titulo": "El rey leon",
+        "genero": "Animacion",
+        "duracion": 85,
+        "sinopsis": "La sabana africana es el escenario donde tienen lugar als aventuras de Simba, un peque\u00f1o leon heredero al trono. Sin embargo, al ser injustamente acusado por el malvado Scar de la muerte de su padre, se ve obligado a huir. Durante su destierro, hara muy buenos amigos que lo ayudaran abuscar la verdad y recuperar lo que ligitimamente le corresponde.",
+        "pais_de_origen": "Estados unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            10,
+            7,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 8,
+        "titulo": "Forrest gump",
+        "genero": "Drama",
+        "duracion": 142,
+        "sinopsis": "Forrest Gump (Tom Hanks) sufre desde peque\u00f1o un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen coraz\u00f3n ser\u00e1 protagonista de acontecimientos cruciales de su pa\u00eds durante varias d\u00e9cadas. Mientras pasan por su vida multitud de cosas en su mente siempre est\u00e1 presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre ser\u00e1 la persona m\u00e1s importante en su vida.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            9,
+            9,
+            9,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 9,
+        "titulo": "Harry potter y la piedra filosofal",
+        "genero": "Ciencia ficcion",
+        "duracion": 152,
+        "sinopsis": "El d\u00eda en que cumple once a\u00f1os, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes m\u00e1gicos. En la escuela Hogwarts de Magia y Hechicer\u00eda, donde se educa con otros ni\u00f1os que tambi\u00e9n tienen poderes especiales, aprender\u00e1 todo lo necesario para ser mago.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            10,
+            9,
+            9,
+            10,
+            10,
+            8,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 10,
+        "titulo": "Diario de una pasion",
+        "genero": "Romantica",
+        "duracion": 124,
+        "sinopsis": "En una residencia de ancianos, un hombre (James Garner) lee a una mujer (Gena Rowlands) una historia de amor escrita en su viejo cuaderno de notas. Es la historia de Noah Calhoun (Ryan Gosling) y Allie Hamilton (Rachel McAdams), dos j\u00f3venes adolescentes de Carolina del Norte que, a pesar de vivir en dos ambientes sociales muy diferentes, se enamoraron profundamente y pasaron juntos un verano inolvidable, antes de ser separados, primero por sus padres, y m\u00e1s tarde por la guerra. ",
+        "pais_de_origen": "Estados unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            10,
+            8,
+            9,
+            10,
+            8,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 11,
+        "titulo": "La vida es bella",
+        "genero": "Drama",
+        "duracion": 117,
+        "sinopsis": "En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intenci\u00f3n de abrir una librer\u00eda. All\u00ed conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido har\u00e1 lo imposible para hacer creer a su hijo que la terrible situaci\u00f3n que est\u00e1n padeciendo es tan s\u00f3lo un juego.",
+        "pais_de_origen": "Italia",
+        "idioma": "italiano",
+        "calificacion": [
+            6,
+            9,
+            9,
+            9,
+            10,
+            10,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 12,
+        "titulo": "Harry potter y el misterio del principe",
+        "genero": "Ciencia ficcion",
+        "duracion": 153,
+        "sinopsis": "Con diecis\u00e9is a\u00f1os cumplidos, Harry inicia el sexto curso en Hogwarts en medio de terribles acontecimientos que asolan Inglaterra. Elegido capit\u00e1n del equipo de Quidditch, los entrenamientos, los ex\u00e1menes y las chicas ocupan todo su tiempo, pero la tranquilidad dura poco. A pesar de los f\u00e9rreos controles de seguridad que protegen la escuela, dos alumnos son brutalmente atacados. Dumbledore sabe que se acerca el momento, anunciado por la Profec\u00eda, en que Harry y Voldemort se enfrentar\u00e1n a muerte. El anciano director pedir\u00e1 ayuda a Harry y juntos emprender\u00e1n un peligroso viaje. Para debilitar al enemigo, el joven mago cuenta con la ayuda de un viejo libro de pociones perteneciente a un misterioso personaje que se hace llamar el Pr\u00edncipe Mestizo.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            8,
+            9,
+            9,
+            10,
+            9,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 13,
+        "titulo": "Harry potter y el caliz de fuego",
+        "genero": "Ciencia ficcion",
+        "duracion": 157,
+        "sinopsis": "La cuarta parte de la serie del ni\u00f1o mago comienza con la Copa Internacional de Quidditch. Cuenta tambi\u00e9n el inicio de la atracci\u00f3n por Cho Chang y otro a\u00f1o de magia, en el que una gran sorpresa obligar\u00e1 a Harry a enfrentarse a muchos desaf\u00edos temibles. Tambi\u00e9n habr\u00e1 un torneo de magia para tres escuelas, y el temido regreso de \"Aquel-que-no-debe-ser-nombrado\". ",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            10,
+            9,
+            10
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 14,
+        "titulo": "Harry potter y la camara secreta",
+        "genero": "Ciencia ficcion",
+        "duracion": 154,
+        "sinopsis": "Terminado el verano, Harry (Radcliffe) no ve la hora de abandonar la casa de sus odiosos t\u00edos, pero, inesperadamente se presenta en su dormitorio Dobby, un elfo dom\u00e9stico, que le anuncia que correr\u00e1 un gran peligro si vuelve a Hogwarts. A pesar de los esfuerzos del elfo por retenerlo, Harry es rescatado por Ron y sus hermanos, con la ayuda de un coche volador, y recibido con los brazos abiertos en el c\u00e1lido hogar de los Weasley.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            10,
+            10,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 15,
+        "titulo": "Indiana Jones y el dial del destino",
+        "genero": "Accion",
+        "duracion": 154,
+        "sinopsis": "El arque\u00f3logo Indiana Jones deber\u00e1 emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompa\u00f1ado por su ahijada, Jones pronto se encuentra enfrent\u00e1ndose a J\u00fcrgen Voller, un ex nazi que trabaja para la NASA. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            6,
+            8,
+            6,
+            7,
+            9,
+            8,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 16,
+        "titulo": "Mission: Impossible - Dead Reckoning - Part One",
+        "genero": "Accion",
+        "duracion": 163,
+        "sinopsis": "Ethan Hunt (Tom Cruise) y su equipo del FMI se embarcan en su misi\u00f3n m\u00e1s peligrosa hasta la fecha: Localizar, antes de que caiga en las manos equivocadas, una nueva y terror\u00edfica arma que amenaza a toda la humanidad. En esta tesitura, y con unas fuerzas oscuras del pasado de Ethan acechando, comienza una carrera mortal alrededor del mundo en la que est\u00e1 en juego el control del futuro y el destino del planeta. Enfrentado a un enemigo misterioso y todopoderoso, Ethan se ve obligado a considerar que nada puede anteponerse a su misi\u00f3n, ni siquiera las vidas de aquellos que m\u00e1s le importan.  ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            6,
+            6,
+            5,
+            7,
+            6
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 17,
+        "titulo": "Transformers: el despertar de las bestias",
+        "genero": "Accion",
+        "duracion": 127,
+        "sinopsis": "En 1994 un par de arqueologos se ven envueltos en un antiguo conflicto a traves de una aentura por todo el mundo que se realaciona con trs facciones de transformers: los maximals, los predacons y los terrocons mientras ayudan a optimus prime y los autobots en una guerra para proteger la tierra ante la llegada de unicron.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            6,
+            8,
+            6,
+            7,
+            7,
+            6,
+            7,
+            7
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 18,
+        "titulo": "E.t. el extraterrestre",
+        "genero": "Ciencia ficcion",
+        "duracion": 115,
+        "sinopsis": "Un pequ\u00f1o ser de otro planeta se queda abandonado en la tierra cuando su nave, al emprender el regreso,se olvida de el.Esta completamente solo y tiene miedo, pero se hara amigo de un ni\u00f1o, que lo esconde en su casa.El peque\u00f1o y sus hermanos intentan encontrar la forma de que el peque\u00f1o extraterrestre regrese a su planeta antes de que lo encuentren los cientificos y la policia.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            10,
+            8,
+            9,
+            10,
+            10,
+            9,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 19,
+        "titulo": "Harry potter y la orden del fenix",
+        "genero": "Ciencia ficcion",
+        "duracion": 138,
+        "sinopsis": "Las tediosas vacaciones en casa de sus t\u00edos todav\u00eda no han acabado y Harry se encuentra m\u00e1s inquieto que nunca. Apenas ha tenido noticias de Ron y Hermione y presiente que algo extra\u00f1o est\u00e1 sucediendo en Hogwarts. En efecto, cuando por fin empieza el curso, sus temores se hacen realidad. El Ministerio de Magia niega que Voldemort haya regresado e inicia una campa\u00f1a de desprestigio contra Harry y Dumbledore, encomendando a la horrible profesora Dolores Umbridge la tarea de vigilar todos sus movimientos. As\u00ed, pues, adem\u00e1s de sentirse solo e incomprendido, Harry sospecha que Voldemort puede adivinar sus pensamientos e intuye que el temible mago trata de apoderarse de un objeto secreto que le permitir\u00eda recuperar su destructivo poder.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            9,
+            10,
+            9,
+            9,
+            10,
+            9,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 20,
+        "titulo": "Oppenheimer",
+        "genero": "Drama",
+        "duracion": 180,
+        "sinopsis": " En tiempos de guerra, el brillante f\u00edsico estadounidense Julius Robert Oppenheimer (Cillian Murphy), al frente del Proyecto Manhattan, lidera los ensayos nucleares para construir la bomba at\u00f3mica para su pa\u00eds. Impactado por su poder destructivo, Oppenheimer se cuestiona las consecuencias morales de su creaci\u00f3n. Desde entonces y el resto de su vida, se opondr\u00eda firmemente al uso de armas nucleares",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            6,
+            4,
+            4,
+            7,
+            6,
+            7,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 21,
+        "titulo": "Harry potter y las reliquias de la muerte parte 1",
+        "genero": "Ciencia ficcion",
+        "duracion": 146,
+        "sinopsis": "Primera parte de la adaptaci\u00f3n al cine del \u00faltimo libro de la saga Harry Potter. Es una continuaci\u00f3n de la historia recogida en \"El misterio del pr\u00edncipe\". Una misi\u00f3n casi imposible cae sobre los hombros de Harry: deber\u00e1 encontrar y destruir a los \u00faltimos horrocruxes para poner fin al reinado de Lord Voldemort. En el episodio final de la saga, el joven hechicero de 17 a\u00f1os emprende con sus amigos Hermione Granger y Ron Weasley un peligroso viaje por Inglaterra para encontrar los objetos que contienen los fragmentos del alma del Se\u00f1or Tenebroso, que son los que garantizan su longevidad. Pero la tarea no ser\u00e1 f\u00e1cil, pues el poder del lado oscuro crece cada vez m\u00e1s, y las m\u00e1s firmes lealtades ser\u00e1n puestas a prueba. Harry deber\u00e1 usar todos los conocimientos que ha adquirido gracias a Dumbledore para enfrentarse a su enemigo y encontrar la forma de sobrevivir a esta \u00faltima aventura.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            8,
+            9,
+            10,
+            10,
+            10,
+            9,
+            9,
+            10
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 22,
+        "titulo": "Harry potter y las reliquias de la muerte parte 2",
+        "genero": "Ciencia ficcion",
+        "duracion": 130,
+        "sinopsis": "El final ha llegado. Harry, Hermione y Ron tendr\u00e1n que recuperar la espada de Gryffindor para encontrar y destruir los \u00faltimos horrocruxes. Mientras tanto, Lord Voldemort est\u00e1 a punto de apoderarse por completo de Hogwarts y de conseguir su objetivo: matar a Harry Potter. La \u00fanica esperanza de Harry es encontrar los horrocruxes antes de que Voldemort lo encuentre a \u00e9l. Buscando pistas, descubre una antigua y olvidada historia: la leyenda de las reliquias de la muerte, que podr\u00eda dar al malvado Lord el poder definitivo. Pero el futuro de Harry est\u00e1 escrito desde que naci\u00f3 e incluye una misi\u00f3n para la que se ha estado preparando desde que lleg\u00f3 a Hogwarts: la batalla final contra Voldemort. ",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            10,
+            10
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 23,
+        "titulo": "Animales fantasticos y donde encontrarlos",
+        "genero": "Ciencia ficcion",
+        "duracion": 130,
+        "sinopsis": "A\u00f1o 1926. Newt Scamander acaba de completar un viaje por todo el mundo para encontrar y documentar una extraordinaria selecci\u00f3n de criaturas m\u00e1gicas. Llegando a Nueva York para hacer una breve parada en su camino, donde podr\u00eda haber llegado y salido sin incidentes\u2026 pero no para un Muggle llamado Jacob, un caso perdido de magia, y la fuga de algunas criaturas fant\u00e1sticas de Newt, que podr\u00edan causar problemas el mundo m\u00e1gico y en el mundo Muggle. ",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            9,
+            8,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 24,
+        "titulo": "Animales fantasticos los crimenes de grindelwalt",
+        "genero": "Ciencia ficcion",
+        "duracion": 134,
+        "sinopsis": "Cumpliendo con su amenaza, Grindelwald escapa de su custodia y ha comenzado a reunir seguidores, la mayor\u00eda de los cuales no sospechan sus verdaderas intenciones: alzar a los magos purasangre para reinar sobre todas las criaturas no m\u00e1gicas. En un esfuerzo por frustrar los planes de Grindelwald, Albus Dumbledore (Jude Law) recluta a su antiguo estudiante Newt Scamander, quien accede a prestar su ayuda, sin conocer los peligros que aguardan. Las l\u00edneas quedan marcadas mientras el amor y la lealtad son puestos a prueba, incluso entre los amigos m\u00e1s cercanos y la familia, en un mundo m\u00e1gico cada vez m\u00e1s dividido. ",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            7,
+            8,
+            8,
+            9,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 25,
+        "titulo": "Animales fantasticos los secretos de dumbledore",
+        "genero": "Ciencia ficcion",
+        "duracion": 142,
+        "sinopsis": "El profesor Albus Dumbledore (Jude Law) sabe que el poderoso mago oscuro Gellert Grindelwald (Mads Mikkelsen) est\u00e1 haciendo planes para apoderarse del mundo m\u00e1gico. Incapaz de detenerlo \u00e9l solo, conf\u00eda en el Magizo\u00f3logo Newt Scamander (Eddie Redmayne) para dirigir un intr\u00e9pido equipo de magos, brujas y un valiente panadero Muggle en una misi\u00f3n peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legi\u00f3n cada vez m\u00e1s numerosa de seguidores de Grindelwald. Hay mucho en juego as\u00ed que nos preguntamos hasta cu\u00e1ndo podr\u00e1 permanecer Dumbledore al margen.",
+        "pais_de_origen": "Reino Unido",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            10,
+            8,
+            9,
+            8,
+            9,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 26,
+        "titulo": "El conjuro",
+        "genero": "Terror",
+        "duracion": 112,
+        "sinopsis": "Basada en una historia real documentada por los reputados demon\u00f3logos Ed y Lorraine Warren. Narra los encuentros sobrenaturales que vivi\u00f3 la familia Perron en su casa de Rhode Island a principios de los 70. El matrimonio Warren, investigadores de renombre en el mundo de los fen\u00f3menos paranormales, acudieron a la llamada de esta familia aterrorizada por la presencia en su granja de un ser maligno.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            5,
+            6,
+            5,
+            5,
+            6,
+            6
+        ],
+        "disponible": false,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 27,
+        "titulo": "Una esposa de mentira",
+        "genero": "Comedia",
+        "duracion": 116,
+        "sinopsis": "Danny Maccabee (Adam Sandler) es un cirujano pl\u00e1stico que siempre finge estar casado para no comprometerse con ninguna mujer. Pero un d\u00eda conoce a la despampanante Palmer (Brooklyn Decker), una joven con la que quiere algo m\u00e1s serio. El problema es que cuando Palmer descubre su anillo de casado, piensa que lo est\u00e1, as\u00ed que Danny decide contratar a su ayudante Katherine (Jennifer Aniston), una madre soltera con hijos, para que finjan ser su familia. Su intenci\u00f3n es demostrarle a Palmer que su amor por ella es tan grande que est\u00e1 a punto de divorciarse de su mujer... Remake de \"Flor de cactus\" (Cactus Flower, 1969), interpretada entonces por Walter Matthau, Ingrid Bergman y Goldie Hawn.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            8,
+            8,
+            8,
+            8,
+            8,
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 28,
+        "titulo": "Nueve reinas",
+        "genero": "Drama",
+        "duracion": 114,
+        "sinopsis": "Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un d\u00eda para hacer una estafa que no puede fallar. ",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 29,
+        "titulo": "El hijo de la novia.",
+        "genero": "Drama",
+        "duracion": 124,
+        "sinopsis": "Rafael dedica 24 horas al d\u00eda a su restaurante, est\u00e1 divorciado, ve muy poco a su hija, no tiene amigos y elude comprometerse con su novia. Adem\u00e1s, desde hace mucho tiempo no visita a su madre, internada en un geri\u00e1trico porque sufre el mal de Alzheimer. Una serie de acontecimientos inesperados le obligan a replantearse su vida. Entre ellos, la intenci\u00f3n que tiene su padre de cumplir el viejo sue\u00f1o de su madre: casarse por la Iglesia.",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            9,
+            9,
+            9,
+            9,
+            10,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 30,
+        "titulo": "Relatos salvajes",
+        "genero": "Drama",
+        "duracion": 119,
+        "sinopsis": "La pel\u00edcula consta de seis episodios que alternan la intriga, la comedia y la violencia. Sus personajes se ver\u00e1n empujados hacia el abismo y hacia el innegable placer de perder el control, cruzando la delgada l\u00ednea que separa la civilizaci\u00f3n de la barbarie",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            9,
+            9,
+            9,
+            10,
+            8,
+            9,
+            9,
+            8
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 31,
+        "titulo": "El secreto de sus ojos",
+        "genero": "Drama",
+        "duracion": 129,
+        "sinopsis": "Benjam\u00edn Esp\u00f3sito es oficial de un Juzgado de Instrucci\u00f3n de Buenos Aires reci\u00e9n retirado. Obsesionado por un brutal asesinato ocurrido veinticinco a\u00f1os antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene tambi\u00e9n a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos a\u00f1os.",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            10,
+            9,
+            9,
+            10,
+            8,
+            9,
+            9,
+            9
+        ],
+        "disponible": true,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 32,
+        "titulo": "La extorsion",
+        "genero": "Drama",
+        "duracion": 105,
+        "sinopsis": "Un experimentado piloto comercial se ve obligado a colaborar con los servicios de inteligencia de su pa\u00eds para evitar ser sancionado por una grave falta que cometi\u00f3 en el trabajo. R\u00e1pidamente se sumerge en un submundo de intrigas y extorsiones que pondr\u00e1 en riesgo su vida y pagar\u00e1 un precio muy alto para escapar de \u00e9l.",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            6,
+            7,
+            5,
+            7,
+            7,
+            7,
+            5
+        ],
+        "disponible": false,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 33,
+        "titulo": "El diablo viste a la moda",
+        "genero": "Comedia",
+        "duracion": 111,
+        "sinopsis": "En el vertiginoso mundo de la moda de Nueva York, la cumbre del \u00e9xito la representa la revista Runway, dirigida con mano de hierro por Miranda Priestly (Meryl Streep). Trabajar como ayudante de Miranda podr\u00eda abrirle cualquier puerta a Andy Sachs (Anne Hathaway), si no fuera porque es una chica que destaca por su desali\u00f1o estilo dentro del grupo de guap\u00edsimas periodistas de la revista. Andy comprende muy pronto que para triunfar en ese negocio va a necesitar algo m\u00e1s que iniciativa y preparaci\u00f3n. Y la prueba est\u00e1 delante de ella, vestida de pies a cabeza de Prada. El personaje de Meryl Streep se inspira en Anna Wintour, directora de Vogue en los Estados Unidos.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9,
+            10,
+            10,
+            9,
+            9,
+            10,
+            8
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 34,
+        "titulo": "Milagros inesperados",
+        "genero": "Drama",
+        "duracion": 180,
+        "sinopsis": "Ambientada en el sur de los Estados Unidos, en plena Depresi\u00f3n. Paul Edgecomb es un funcionario de prisiones encargado de vigilar la \"Milla Verde\", un pasillo que separa las celdas de los reclusos condenados a la silla el\u00e9ctrica. John Coffey, un gigantesco hombre negro acusado de asesinar brutalmente a dos hermanas de nueve a\u00f1os, est\u00e1 esperando su inminente ejecuci\u00f3n. Tras una personalidad ingenua e infantil, Coffey esconde un prodigioso don sobrenatural.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 35,
+        "titulo": "Bastardos sin gloria",
+        "genero": "Drama",
+        "duracion": 146,
+        "sinopsis": "Segunda Guerra Mundial (1939-1945). En la Francia ocupada por los alemanes, Shosanna Dreyfus (M\u00e9lanie Laurent) presencia la ejecuci\u00f3n de su familia por orden del coronel Hans Landa (Christoph Waltz). Despu\u00e9s de huir a Par\u00eds, adopta una nueva identidad como propietaria de un cine. En otro lugar de Europa, el teniente Aldo Raine (Brad Pitt) adiestra a un grupo de soldados jud\u00edos (\"The Basterds\") para atacar objetivos concretos. Los hombres de Raine y una actriz alemana (Diane Kruger), que trabaja para los aliados, deben llevar a cabo una misi\u00f3n para hacer caer a los jefes del Tercer Reich. El destino quiere que todos se encuentren bajo la marquesina de un cine donde Shosanna espera para vengarse.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 36,
+        "titulo": "El caballero de la noche asciende",
+        "genero": "Accion",
+        "duracion": 164,
+        "sinopsis": "Hace ocho a\u00f1os que Batman desapareci\u00f3, dejando de ser un h\u00e9roe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent, el Caballero Oscuro decidi\u00f3 sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo, ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan. Sin embargo, mucho m\u00e1s peligrosa es la aparici\u00f3n en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 37,
+        "titulo": "Mas alla de los sue\u00c3\u00b1os",
+        "genero": "Drama",
+        "duracion": 109,
+        "sinopsis": "Tras la muerte de sus dos hijos, el doctor Chris Nielson (Robin Williams) y su esposa Annie (Annabella Sciorra) contin\u00faan su vida a duras penas. Entonces Chris tambi\u00e9n muere en un accidente de coche y, cuando llega al cielo, conoce a Albert, que le muestra lo maravillosa que es la vida en el 'M\u00e1s All\u00e1'. Mientras tanto, la soledad sume a Annie en una locura que la aleja cada vez m\u00e1s de la vida.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG-13"
+    },
+    {
+        "id": 38,
+        "titulo": "Jerry maguire",
+        "genero": "Drama",
+        "duracion": 133,
+        "sinopsis": "Jerry Maguire es uno de los empleados m\u00e1s competentes de una prestigiosa agencia dedicada a la promoci\u00f3n de deportistas. Su vida transcurre sin sobresaltos hasta que se da cuenta de que las personas son m\u00e1s importantes que el dinero. Ese d\u00eda es despedido y abandonado por sus amigos. No le queda entonces m\u00e1s remedio que partir de cero, con un futbolista de segunda como \u00fanico cliente y una madre soltera como secretaria. ",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            8
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 39,
+        "titulo": "Top gun: pasion y gloria",
+        "genero": "Drama",
+        "duracion": 110,
+        "sinopsis": "La Marina de los Estados Unidos ha creado una escuela de \u00e9lite para pilotos con el fin de sacar una promoci\u00f3n de expertos en t\u00e9cnicas de combate. En la academia, m\u00e1s conocida como Top Gun, a los mejores se les entrena para ser intr\u00e9pidos y fr\u00edos al mismo tiempo, capaces de no perder los nervios en situaciones extremas y de no inmutarse al romper la barrera del sonido a los mandos de un F-14. A la escuela llega el joven Maverick, famoso por su temeraria aunque brillante forma de pilotar.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            7
+        ],
+        "disponible": true,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 40,
+        "titulo": "Rain man",
+        "genero": "Drama",
+        "duracion": 129,
+        "sinopsis": "Charlie Babbitt (Tom Cruise), un joven ego\u00edsta que espera heredar la fortuna de su difunto padre, se entera de que el beneficiario es su hermano Raymond (Dustin Hoffman), un autista al que no conoce, porque ha vivido siempre recluido en un centro especial. Ambos har\u00e1n un largo viaje a trav\u00e9s de los Estados Unidos. Al principio, a Charlie, el extravagante comportamiento de su hermano lo irrita y lo desconcierta, pero, poco a poco, aprender\u00e1 a conocerlo y a quererlo.",
+        "pais_de_origen": "Estados Unidos",
+        "idioma": "ingles",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "PG"
+    },
+    {
+        "id": 43,
+        "titulo": "Muchachos, la pelicula de la gente",
+        "genero": "Drama",
+        "duracion": 100,
+        "sinopsis": "Pel\u00edcula sobre la fiesta m\u00e1s numerosa de la historia argentina, las celebraciones por el t\u00edtulo de la Selecci\u00f3n Argentina en el Mundial de F\u00fatbol Qatar 2022, una experiencia cinematogr\u00e1fica que a trav\u00e9s de videos obtenidos mediante la convocatoria a argentinos en todo el mundo y material in\u00e9dito con tomas de drones de los festejos y de la llegada de la Selecci\u00f3n, llevar\u00e1 al p\u00fablico a ese diciembre eterno donde las calles se ti\u00f1eron de celeste y blanco.",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [
+            9
+        ],
+        "disponible": false,
+        "clasificacion": "ATP"
+    },
+    {
+        "id": 44,
+        "titulo": "Elijo creer",
+        "genero": "Drama",
+        "duracion": 80,
+        "sinopsis": "Narra el \u00e9pico t\u00edtulo obtenido por la Selecci\u00f3n Argentina en el Mundial de F\u00fatbol Qatar 2022 con testimonios de los protagonistas, contados desde la intimidad y en primera persona.",
+        "pais_de_origen": "Argentina",
+        "idioma": "espa\u00f1ol",
+        "calificacion": [],
+        "disponible": true,
+        "clasificacion": "ATP"
+    }
+]
